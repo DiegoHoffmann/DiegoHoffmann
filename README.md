@@ -10,7 +10,7 @@ Ja escrevi uns códigos "pein meia boca" que estão aí perdidos nos meus repos 
 
 Então, "Nós somos o que fazemos. A excelência não é um ato, mas um hábito" (Aristóteles, 384 a.C.-322 a.C.)
 
-![](https://github-production-user-asset-6210df.s3.amazonaws.com/39543693/279255654-207fe37a-945e-490c-980c-699d58d5116a.mp4)
+![Suricatin](https://github.com/DiegoHoffmann/DiegoHoffmann/assets/39543693/2e243424-1463-4ba1-9360-7e86a04e3bab)
 
 Nos meus repositórios, tenho alguns trabalhos da faculdade, projetos de estudo que iniciei e que achei interessante compartilhar. 
 
