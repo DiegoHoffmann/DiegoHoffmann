@@ -12,8 +12,6 @@ Então, "Nós somos o que fazemos. A excelência não é um ato, mas um hábito"
 
 ![Suricatin](https://github.com/DiegoHoffmann/DiegoHoffmann/assets/39543693/2e243424-1463-4ba1-9360-7e86a04e3bab)
 
-Nos meus repositórios, tenho alguns trabalhos da faculdade, projetos de estudo que iniciei e que achei interessante compartilhar. 
-
 
 ## Linguagens e ferramentas que possuo conhecimento
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
