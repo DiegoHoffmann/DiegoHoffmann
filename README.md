@@ -1,14 +1,28 @@
-## Saaalveeeeee 🤜🤛!!! 
+## 🤜🤛 Saaalveeeeee, me chamo Diego!!!
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-hammes-hoffmann/)](https://www.linkedin.com/in/diego-hammes-hoffmann/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/DiegoHHoffmann)](https://twitter.com/DiegoHHoffmann)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/@DiegoHammesHoffmann)](https://www.youtube.com/@DiegoHammesHoffmann)
 
 
-Me chamo Diego, filho da Sra. Irmgard, sou desenvolvedor backend .net, formado em Ciência da computação pela ULBRA Gravataí e pós graduado em inteligência artificial e ciência de dados pela PUC RS. Atualmente trabalho na CWI Software alocado no grupo Casas Bahia. Nestes anos tive a oportunidade de trabalhar com sistemas de saúde, financeiro e e-commerce.
+ Reflexão:   
+`Jamais esqueça de ser grato com aquele que foi um degrau quando você não tinha mais onde pisar. Gratidão eterna Mãe!`
 
-Ja escrevi uns códigos "pein meia boca" que estão aí perdidos nos meus repos mas que não tiro para ver a evolução que tive. 
+Filho da Sra. Irmgard, sou **Engenheiro de Software Sênior na Stone**, formado em Ciência da Computação pela Ulbra Gravataí e pós graduado em Inteligência Artificial e Ciência de Dados pela PUC RS. Especialista em desenvolvimento Back-end e entusiasta da IA, unindo a engenharia de software ao potencial da Inteligência Artificial.
 
-Então, "Nós somos o que fazemos. A excelência não é um ato, mas um hábito" (Aristóteles, 384 a.C.-322 a.C.)
+---
+🛠️ **Experiência**  
+Ao longo da minha carreira, tive o privilégio de arquitetar e manter soluções em ecossistemas:
+ 1. **Fintech:** Atualmente na Stone, focado em alta disponibilidade e performance. Experiência prévia em instituições como Agibank e ASA, atuando em sistemas críticos de core bancário e crédito.
+ 2. **Healthtech:** Experiência com sistemas de plano de saúde, extrato, gestão de acesso e área de cadastro do beneficiário.
+ 3. **E-commerce:** Desenvolvimento e suporte de plataformas focadas em conversão, gestão do carrinho e fluxo de checkout do cliente.
+
+---
+📜 **Minha Filosofia**  
+<br />
+> "Nós somos o que fazemos. A excelência não é um ato, mas um hábito." — Aristóteles
+<br />
+
+Ja escrevi uns códigos "bein meia boca" que estão aí perdidos nos meus repos mas não tiro para ver a evolução que tive. Afinal de contas quem nunca fez um `if verdadeiro == true`.
 
 ![Suricatin](https://github.com/DiegoHoffmann/DiegoHoffmann/assets/39543693/2e243424-1463-4ba1-9360-7e86a04e3bab)
 
